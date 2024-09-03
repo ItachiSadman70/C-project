@@ -1,0 +1,15 @@
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\Famracy.exe.config
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\Famracy.exe
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\Famracy.pdb
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.AddMedicine.resources
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.Dashboard.resources
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.MainForm.resources
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.Price.resources
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.Properties.Resources.resources
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.RegisterForm.resources
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.exe
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.pdb

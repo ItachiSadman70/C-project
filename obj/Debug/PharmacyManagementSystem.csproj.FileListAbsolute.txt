@@ -1,0 +1,46 @@
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\Famracy.AddMedicine.resources
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\Famracy.Dashboard.resources
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\Famracy.MainForm.resources
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\Famracy.Price.resources
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\Famracy.RegisterForm.resources
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.sales.resources
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Drugs.mdf
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Drugs_log.ldf
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe.manifest
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.manifest
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.application
+F:\Level 2 Semester 2\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.application
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\customer&sales.mdf
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\customer&sales_log.ldf
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Drugs.mdf
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Drugs_log.ldf
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.manifest
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.application
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\Famracy.AddMedicine.resources
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\Famracy.Dashboard.resources
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\Famracy.MainForm.resources
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\Famracy.Price.resources
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\Famracy.RegisterForm.resources
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.sales.resources
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe.manifest
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.application
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+F:\C# project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
